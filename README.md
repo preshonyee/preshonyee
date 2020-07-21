@@ -1,4 +1,4 @@
-![penguine saying hello](./hello.gif)
+![dog waving](https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif)
 
 Hi there 👋🏾
 
