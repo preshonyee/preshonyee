@@ -1,4 +1,4 @@
-![penguine saying hello](/hello.gif)
+![penguine saying hello](./hello.gif)
 
 Hi there 👋🏾
 
