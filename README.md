@@ -2,7 +2,7 @@
 
 # Nice to meet you! 👋🏾
 
-I'm **Presh** - designer and engineer focused on UI engineering and design systems. I build for web and mobile. A lot of my work focuses on helping designers and engineers work more efficiently together.
+I'm **Presh** - designer and engineer focused on UI engineering and design systems. I build for web and iOS. A lot of my work focuses on helping designers and engineers work more efficiently together.
 
 I'm currently building [Camara](https://www.camara.space), a design system with reusable UI components library and APIs for the best default user, designer and developer experience.
 
@@ -19,7 +19,7 @@ Don't be a stranger! Say [Hello](https://mobile.twitter.com/preshonyee)
 - 💅🏾 Styled components
 - ✡️ React, NextJS, Gatsby
 - 👓 Storybook, Playroom
-- 📱 Flutter, React Native, SwiftUI
+- 📱 UIKit, SwiftUI
 - 🦐 ESlint, Prettier
 - 🛠 Yarn, NPM, Webpack, Rollup
 - 🚀 Git, Vercel, Netlify
