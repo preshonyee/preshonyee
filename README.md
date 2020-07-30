@@ -2,6 +2,8 @@
 
 # Nice to meet you! 👋🏾
 
+### Talk to me about all things 'Design Systems'
+
 I'm **Presh** - designer and engineer focused on UI engineering and design systems. I build for web and iOS. A lot of my work focuses on helping designers and engineers work more efficiently together.
 
 I'm currently building [Camara](https://www.camara.space), a design system with reusable UI components library and APIs for the best default user, designer and developer experience.
@@ -10,7 +12,7 @@ Building beautiful, accessible, responsive and performant interfaces are things 
 
 Don't be a stranger! Say [Hello](https://mobile.twitter.com/preshonyee)
 
-## My current skillset and weapons of choice
+### My current skillset and weapons of choice
 
 - 😇 Enthusiasm, Empathy, Laughter
 - 👨🏽‍💻HTML, CSS, JS, C#
