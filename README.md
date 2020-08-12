@@ -21,7 +21,7 @@ Don't be a stranger! Say [Hello](https://mobile.twitter.com/preshonyee)
 - 💅🏾 Styled components
 - ✡️ React, NextJS, Gatsby
 - 👓 Storybook, Playroom
-- 📱 React Native
+- 📱 UI Kit, SwiftUI
 - 🦐 ESlint, Prettier
 - 🛠 Yarn, NPM, Webpack, Rollup
 - ⛅️ GCP, Azure
