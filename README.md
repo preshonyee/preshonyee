@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" alt="dog waving" />
+<img width="50%" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" alt="dog waving" />
 
 ### Hi, I’m Presh! Nice to meet you! 👋🏾
 (he/him)
