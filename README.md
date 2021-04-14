@@ -1,6 +1,6 @@
-![dog waving](https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif)
+<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" alt="dog waving" />
 
-## Hi, I’m Presh! Nice to meet you! 👋🏾
+### Hi, I’m Presh! Nice to meet you! 👋🏾
 (he/him)
 
 I'm a designer and engineer focused on UI engineering and design systems. I build for the web and mobile(occasionally) platforms. A lot of my work focuses on helping designers and engineers work more efficiently together.
