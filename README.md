@@ -4,7 +4,7 @@
 
 ### Talk to me about all things 'Design Systems'
 
-I'm **Presh** - designer and engineer focused on UI engineering and design systems. I build for web and iOS. A lot of my work focuses on helping designers and engineers work more efficiently together.
+I'm **Presh** - designer and engineer focused on UI engineering and design systems. I build for the web and occasionally mobile platforms. A lot of my work focuses on helping designers and engineers work more efficiently together.
 
 I'm currently building [Camara](https://www.camara.space), a design system with reusable UI components library and APIs for the best default user, designer and developer experience.
 
