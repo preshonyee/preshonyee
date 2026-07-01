@@ -1,6 +1,6 @@
 <img width="20%" src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" alt="dog waving" />
 
-## Founder of [Kickserve](https://kickserve.build/). Shaping how people build software with AI
+## Shaping how people build software with AI @ [Kickserve](https://kickserve.build/).
 
 Reach me: [Website](https://preshonyee.com/), [YouTube](https://preshonyee.com/), [Twitter](https://twitter.com/preshonyee), [LinkedIn](https://www.linkedin.com/in/preshonyee/)
 
