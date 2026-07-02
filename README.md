@@ -9,12 +9,12 @@ Reach me: [Website](https://preshonyee.com/), [YouTube](https://preshonyee.com/)
 - [Oftn](https://oftn.dev/) - The release layer for MacOS apps
 - [OutProof](https://outproof.ai/) - The agentic content operating system for serious creators
 - [PanScroll](https://panscroll.com/) - The AI canvas that turns your ideas to dazzling presentations
-- [Append](https://append.xyz/) - Voice-to-text AI that turns speech into clear, polished writing in every app.
-- [Xactive](https://xactive.xyz/) - Custom Twitter client designed to work for the way I think
+- [Append](https://preshonyee.com/projects/append/) - Voice-to-text AI that turns speech into clear, polished writing in every app.
+- [Xactive](https://preshonyee.com/projects/xactive/) - Custom Twitter client designed to work for the way I think
 
   
 ### Others
-- [Pasteful](https://pasteful.xyz/) - MacOS clipboard app for the people who copy a lot
-- [TextGrab](https://textgrab.xyz/) - Copy any text from any image using OCR scanner for MacOS
+- [Pasteful](https://preshonyee.com/projects/pasteful/) - MacOS clipboard app for the people who copy a lot
+- [TextGrab](https://preshonyee.com/projects/textgrab/) - Copy any text from any image using OCR scanner for MacOS
 - [OutProof iOS](https://outproof.ai/mobile) - Your AI content OS companion app
 
